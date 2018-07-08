@@ -1,3 +1,4 @@
 asdf
 test merge
 test push
+test ssh
